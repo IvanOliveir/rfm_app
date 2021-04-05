@@ -1,4 +1,5 @@
 # RFM_app
+## A streamlit's app to calculate a RFM 
 
 Recency, frequency, monetary value is a marketing analysis tool used to identify a company's or an organization's best customers by using certain measures. 
 
