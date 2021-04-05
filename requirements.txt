@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+squarify
+unidecode
+datetime
+calendar
+streamlit
+base64
+os
